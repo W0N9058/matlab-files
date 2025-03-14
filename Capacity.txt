@@ -1,0 +1,2 @@
+Capacity = [51.8 54.3 55.8 57.2 57.3]
+Temperature = [5 15 25 35 45] % degree celcius

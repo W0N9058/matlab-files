@@ -1,0 +1,4 @@
+params
+- Em: OCV
+- SOC_Em_LUT: SOC step for OCV
+- SOC_LUT: SOC step for other parameters

@@ -1,0 +1,7 @@
+﻿specific heat [J/kg*K],1000
+thermal conductivity(in-plane) [W/m*K],25
+thermal conductivity(through-plane),1
+width [m],0.3
+height [m],0.1
+thickness [m],0.01
+density [kg/m^3],2500
